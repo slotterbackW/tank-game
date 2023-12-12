@@ -1,4 +1,4 @@
-# tank-game
+# Tank Wars
 A tiny tank game made with [pygame-zero](https://pygame-zero.readthedocs.io/en/stable/index.html)
 
 ![game screenshot](./images/game_screenshot.png "Game Screenshot")
